@@ -51,5 +51,5 @@ He aprendido superposición de imágenes y a recortarlas
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/manuelfernandezesteban)
+- Frontend Mentor - [@manuelfernandezesteban](https://www.frontendmentor.io/profile/manuelfernandezesteban)
 
